@@ -1,0 +1,1099 @@
+{
+  "frames": [
+    {
+      "id": "pink-001",
+      "name": "Pink Frame",
+      "color": "Pink",
+      "category": "BOGO_OFFER",
+      "image": "/images/frames/pink-frame.jpg",
+      "description": "Stylish pink frame perfect for everyday wear",
+      "material": "Acetate",
+      "shape": "Rectangle",
+      "size": {
+        "width": "140mm",
+        "height": "45mm",
+        "bridge": "18mm"
+      },
+      "lensOptions": [
+        {
+          "type": "ANTI-GLARE Essentials",
+          "features": [
+            "Adjusted lens thickness",
+            "Double side anti-glare (High Coating), UV protect"
+          ],
+          "warranty": "6 Months Warranty",
+          "coupon": "SINGLE",
+          "price": {
+            "current": 2300,
+            "original": 4200,
+            "pairs": 2
+          }
+        },
+        {
+          "type": "BLU-CUT/BLU-GREEN",
+          "features": [
+            "Blue-Block & Anti-glare",
+            "Adjusted lens thickness",
+            "Double side anti-glare"
+          ],
+          "warranty": "1 Year Warranty",
+          "coupon": "SINGLE",
+          "price": {
+            "current": 2600,
+            "original": 4600,
+            "pairs": 2
+          }
+        },
+        {
+          "type": "BLU-CUT PREMIUM/NVG",
+          "features": [
+            "Blue-Block & Anti-glare",
+            "Adjusted lens thickness",
+            "Double side anti-glare",
+            "Smudge & Scratch resistant",
+            "Water & dust repellent",
+            "UV protection"
+          ],
+          "warranty": "1 Year Warranty",
+          "coupon": "SINGLE",
+          "price": {
+            "current": 3500,
+            "original": 6000,
+            "pairs": 2
+          }
+        }
+      ],
+      "bifocalLensOptions": [
+        {
+          "type": "Circular Bi-Focal KT Hard Coat",
+          "features": [
+            "Basic Hard coating",
+            "Adjusted Lens Thickness"
+          ],
+          "additionalCoatings": {
+            "forPG": 800
+          },
+          "price": {
+            "current": 2800,
+            "original": 3500,
+            "pairs": 2
+          }
+        },
+        {
+          "type": "Circular Bi-Focal KT Anti-Glare",
+          "features": [
+            "Anti-Glare Coating",
+            "Adjusted Lens Thickness",
+            "UV Protection"
+          ],
+          "additionalCoatings": {
+            "forPG": 800
+          },
+          "price": {
+            "current": 3200,
+            "original": 3800,
+            "pairs": 2
+          }
+        },
+        {
+          "type": "Circular Bi-Focal KT BLU-Cut",
+          "features": [
+            "Premium Anti-Glare Coating",
+            "Adjusted Lens Thickness",
+            "UV Protection",
+            "Blue Block Protection",
+            "Smudge & Scratch Resistant",
+            "Water & Dust Repellent"
+          ],
+          "additionalCoatings": {
+            "forPG": 1800,
+            "forARC": 800,
+            "forBluCut": 1800
+          },
+          "price": {
+            "current": 3800,
+            "original": 6200,
+            "pairs": 2
+          }
+        },
+        {
+          "type": "Circular Bi-Focal KT - Premium",
+          "features": [
+            "All Premium Coatings",
+            "UV Protection",
+            "Customised Precision Lenses",
+            "Smudge & Scratch Resistant",
+            "Water & Dust Repellent",
+            "Adjusts Quickly"
+          ],
+          "additionalCoatings": {
+            "forPG": 1800,
+            "forARC": 800,
+            "forBluCut": 1800
+          },
+          "price": {
+            "current": 4300,
+            "original": 8000,
+            "pairs": 2
+          }
+        }
+      ],
+      "progressiveLensOptions": [
+        {
+          "type": "Basic Normal Corridor Progressive",
+          "features": [
+            "Basic Hard coating",
+            "Adjusted Lens Thickness"
+          ],
+          "additionalCoatings": {
+            "forPG": 2500
+          },
+          "price": {
+            "current": 3500,
+            "original": 6000,
+            "pairs": 2
+          }
+        },
+        {
+          "type": "Normal Corridor Anti-Glare Progressive",
+          "features": [
+            "Anti-Glare Coating",
+            "Adjusted Lens Thickness",
+            "UV Protection"
+          ],
+          "price": {
+            "current": 4200,
+            "original": 6800,
+            "pairs": 2
+          }
+        },
+        {
+          "type": "Normal Corridor Blu-Cut Progressive",
+          "features": [
+            "Premium Anti-Glare Coating",
+            "Adjusted Lens Thickness",
+            "UV Protection",
+            "Blue Block Protection",
+            "Smudge & Scratch Resistant",
+            "Water & Dust Repellent"
+          ],
+          "price": {
+            "current": 5000,
+            "original": 8800,
+            "pairs": 2
+          }
+        },
+        {
+          "type": "Wide Corridor Progressive - Premium",
+          "features": [
+            "All Premium Coatings",
+            "UV Protection",
+            "Customised Precision Lenses",
+            "Smudge & Scratch Resistant",
+            "Water & Dust Repellent",
+            "Adjusts Quickly"
+          ],
+          "additionalCoatings": {
+            "forPG": 4000,
+            "forARC": 1800,
+            "forBluCut": 2500
+          },
+          "price": {
+            "current": 5000,
+            "original": 8800,
+            "pairs": 2
+          }
+        }
+      ],
+      "powerRange": {
+        "sph": {
+          "min": -8,
+          "max": 6
+        },
+        "cyl": {
+          "min": -4,
+          "max": 4
+        }
+      },
+      "membershipCharges": 200,
+      "availability": true,
+      "stock": 50
+    },
+    {
+      "id": "orange-001",
+      "name": "Orange Frame",
+      "color": "Orange",
+      "category": "BOGO_OFFER",
+      "image": "/images/frames/orange-frame.jpg",
+      "description": "Vibrant orange frame for a bold look",
+      "material": "Acetate",
+      "shape": "Rectangle",
+      "size": {
+        "width": "140mm",
+        "height": "45mm",
+        "bridge": "18mm"
+      },
+      "lensOptions": [
+        {
+          "type": "ANTI-GLARE Essentials",
+          "features": [
+            "Adjusted lens thickness",
+            "Double side anti-glare (High Coating), UV protect"
+          ],
+          "warranty": "6 Months Warranty",
+          "coupon": "SINGLE",
+          "price": {
+            "current": 3800,
+            "original": 7200,
+            "pairs": 2
+          }
+        },
+        {
+          "type": "BLU-CUT/BLU-GREEN",
+          "features": [
+            "Blue-Block & Anti-glare",
+            "Adjusted lens thickness",
+            "Double side anti-glare"
+          ],
+          "warranty": "1 Year Warranty",
+          "coupon": "SINGLE",
+          "price": {
+            "current": 4300,
+            "original": 8500,
+            "pairs": 2
+          }
+        },
+        {
+          "type": "BLU-CUT PREMIUM/NVG",
+          "features": [
+            "Blue-Block & Anti-glare",
+            "Adjusted lens thickness",
+            "Double side anti-glare",
+            "Smudge & Scratch resistant",
+            "Water & dust repellent",
+            "UV protection"
+          ],
+          "warranty": "1 Year Warranty",
+          "coupon": "SINGLE",
+          "price": {
+            "current": 4800,
+            "original": 8500,
+            "pairs": 2
+          }
+        }
+      ],
+      "bifocalLensOptions": [
+        {
+          "type": "Circular Bi-Focal KT Hard Coat",
+          "features": [
+            "Basic Hard coating",
+            "Adjusted Lens Thickness"
+          ],
+          "additionalCoatings": {
+            "forPG": 800
+          },
+          "price": {
+            "current": 3800,
+            "original": 3500,
+            "pairs": 2
+          }
+        },
+        {
+          "type": "Circular Bi-Focal KT Anti-Glare",
+          "features": [
+            "Anti-Glare Coating",
+            "Adjusted Lens Thickness",
+            "UV Protection"
+          ],
+          "additionalCoatings": {
+            "forPG": 800
+          },
+          "price": {
+            "current": 4200,
+            "original": 3850,
+            "pairs": 2
+          }
+        },
+        {
+          "type": "Circular Bi-Focal KT BLU-Cut",
+          "features": [
+            "Premium Anti-Glare Coating",
+            "Adjusted Lens Thickness",
+            "UV Protection",
+            "Blue Block Protection",
+            "Smudge & Scratch Resistant",
+            "Water & Dust Repellent"
+          ],
+          "additionalCoatings": {
+            "forPG": 1800,
+            "forARC": 800,
+            "forBluCut": 1800
+          },
+          "price": {
+            "current": 4800,
+            "original": 7900,
+            "pairs": 2
+          }
+        },
+        {
+          "type": "Circular Bi-Focal KT - Premium",
+          "features": [
+            "All Premium Coatings",
+            "UV Protection",
+            "Customised Precision Lenses",
+            "Smudge & Scratch Resistant",
+            "Water & Dust Repellent",
+            "Adjusts Quickly"
+          ],
+          "additionalCoatings": {
+            "forPG": 1800,
+            "forARC": 800,
+            "forBluCut": 1800
+          },
+          "price": {
+            "current": 5300,
+            "original": 8500,
+            "pairs": 2
+          }
+        }
+      ],
+      "progressiveLensOptions": [
+        {
+          "type": "Basic Normal Corridor Progressive",
+          "features": [
+            "Basic Hard coating",
+            "Adjusted Lens Thickness"
+          ],
+          "additionalCoatings": {
+            "forPG": 2500
+          },
+          "price": {
+            "current": 5000,
+            "original": 8500,
+            "pairs": 2
+          }
+        },
+        {
+          "type": "Normal Corridor Anti-Glare Progressive",
+          "features": [
+            "Anti-Glare Coating",
+            "Adjusted Lens Thickness",
+            "UV Protection"
+          ],
+          "price": {
+            "current": 5700,
+            "original": 8900,
+            "pairs": 2
+          }
+        },
+        {
+          "type": "Normal Corridor Blu-Cut Progressive",
+          "features": [
+            "Premium Anti-Glare Coating",
+            "Adjusted Lens Thickness",
+            "UV Protection",
+            "Blue Block Protection",
+            "Smudge & Scratch Resistant",
+            "Water & Dust Repellent"
+          ],
+          "price": {
+            "current": 6400,
+            "original": 9400,
+            "pairs": 2
+          }
+        },
+        {
+          "type": "Wide Corridor Progressive - Premium",
+          "features": [
+            "All Premium Coatings",
+            "UV Protection",
+            "Customised Precision Lenses",
+            "Smudge & Scratch Resistant",
+            "Water & Dust Repellent",
+            "Adjusts Quickly"
+          ],
+          "additionalCoatings": {
+            "forPG": 4000,
+            "forARC": 1800,
+            "forBluCut": 2500
+          },
+          "price": {
+            "current": 6400,
+            "original": 9400,
+            "pairs": 2
+          }
+        }
+      ],
+      "powerRange": {
+        "sph": {
+          "min": -8,
+          "max": 6
+        },
+        "cyl": {
+          "min": -4,
+          "max": 4
+        }
+      },
+      "membershipCharges": 200,
+      "availability": true,
+      "stock": 45
+    },
+    {
+      "id": "green-001",
+      "name": "Green Frame",
+      "color": "Green",
+      "category": "BOGO_OFFER",
+      "image": "/images/frames/green-frame.jpg",
+      "description": "Fresh green frame for a natural style",
+      "material": "Acetate",
+      "shape": "Rectangle",
+      "size": {
+        "width": "140mm",
+        "height": "45mm",
+        "bridge": "18mm"
+      },
+      "lensOptions": [
+        {
+          "type": "ANTI-GLARE Essentials",
+          "features": [
+            "Adjusted lens thickness",
+            "Double side anti-glare (High Coating), UV protect"
+          ],
+          "warranty": "6 Months Warranty",
+          "coupon": "SINGLE",
+          "price": {
+            "current": 4500,
+            "original": 8800,
+            "pairs": 2
+          }
+        },
+        {
+          "type": "BLU-CUT/BLU-GREEN",
+          "features": [
+            "Blue-Block & Anti-glare",
+            "Adjusted lens thickness",
+            "Double side anti-glare"
+          ],
+          "warranty": "1 Year Warranty",
+          "coupon": "SINGLE",
+          "price": {
+            "current": 5000,
+            "original": 9200,
+            "pairs": 2
+          }
+        },
+        {
+          "type": "BLU-CUT PREMIUM/NVG",
+          "features": [
+            "Blue-Block & Anti-glare",
+            "Adjusted lens thickness",
+            "Double side anti-glare",
+            "Smudge & Scratch resistant",
+            "Water & dust repellent",
+            "UV protection"
+          ],
+          "warranty": "1 Year Warranty",
+          "coupon": "SINGLE",
+          "price": {
+            "current": 5300,
+            "original": 9500,
+            "pairs": 2
+          }
+        }
+      ],
+      "bifocalLensOptions": [
+        {
+          "type": "Circular Bi-Focal KT Hard Coat",
+          "features": [
+            "Basic Hard coating",
+            "Adjusted Lens Thickness"
+          ],
+          "additionalCoatings": {
+            "forPG": 800
+          },
+          "price": {
+            "current": 4300,
+            "original": 3700,
+            "pairs": 2
+          }
+        },
+        {
+          "type": "Circular Bi-Focal KT Anti-Glare",
+          "features": [
+            "Anti-Glare Coating",
+            "Adjusted Lens Thickness",
+            "UV Protection"
+          ],
+          "additionalCoatings": {
+            "forPG": 800
+          },
+          "price": {
+            "current": 4700,
+            "original": 3740,
+            "pairs": 2
+          }
+        },
+        {
+          "type": "Circular Bi-Focal KT BLU-Cut",
+          "features": [
+            "Premium Anti-Glare Coating",
+            "Adjusted Lens Thickness",
+            "UV Protection",
+            "Blue Block Protection",
+            "Smudge & Scratch Resistant",
+            "Water & Dust Repellent"
+          ],
+          "additionalCoatings": {
+            "forPG": 1800,
+            "forARC": 800,
+            "forBluCut": 1800
+          },
+          "price": {
+            "current": 5200,
+            "original": 8000,
+            "pairs": 2
+          }
+        },
+        {
+          "type": "Circular Bi-Focal KT - Premium",
+          "features": [
+            "All Premium Coatings",
+            "UV Protection",
+            "Customised Precision Lenses",
+            "Smudge & Scratch Resistant",
+            "Water & Dust Repellent",
+            "Adjusts Quickly"
+          ],
+          "additionalCoatings": {
+            "forPG": 1800,
+            "forARC": 800,
+            "forBluCut": 1800
+          },
+          "price": {
+            "current": 5800,
+            "original": 8900,
+            "pairs": 2
+          }
+        }
+      ],
+      "progressiveLensOptions": [
+        {
+          "type": "Basic Normal Corridor Progressive",
+          "features": [
+            "Basic Hard coating",
+            "Adjusted Lens Thickness"
+          ],
+          "additionalCoatings": {
+            "forPG": 2500
+          },
+          "price": {
+            "current": 5700,
+            "original": 8900,
+            "pairs": 2
+          }
+        },
+        {
+          "type": "Normal Corridor Anti-Glare Progressive",
+          "features": [
+            "Anti-Glare Coating",
+            "Adjusted Lens Thickness",
+            "UV Protection"
+          ],
+          "price": {
+            "current": 6400,
+            "original": 9400,
+            "pairs": 2
+          }
+        },
+        {
+          "type": "Normal Corridor Blu-Cut Progressive",
+          "features": [
+            "Premium Anti-Glare Coating",
+            "Adjusted Lens Thickness",
+            "UV Protection",
+            "Blue Block Protection",
+            "Smudge & Scratch Resistant",
+            "Water & Dust Repellent"
+          ],
+          "price": {
+            "current": 7100,
+            "original": 10200,
+            "pairs": 2
+          }
+        },
+        {
+          "type": "Wide Corridor Progressive - Premium",
+          "features": [
+            "All Premium Coatings",
+            "UV Protection",
+            "Customised Precision Lenses",
+            "Smudge & Scratch Resistant",
+            "Water & Dust Repellent",
+            "Adjusts Quickly"
+          ],
+          "additionalCoatings": {
+            "forPG": 4000,
+            "forARC": 1800,
+            "forBluCut": 2500
+          },
+          "price": {
+            "current": 7100,
+            "original": 10200,
+            "pairs": 2
+          }
+        }
+      ],
+      "powerRange": {
+        "sph": {
+          "min": -8,
+          "max": 6
+        },
+        "cyl": {
+          "min": -4,
+          "max": 4
+        }
+      },
+      "membershipCharges": 200,
+      "availability": true,
+      "stock": 40
+    },
+    {
+      "id": "brown-001",
+      "name": "Brown Frame",
+      "color": "Brown",
+      "category": "BOGO_OFFER",
+      "image": "/images/frames/brown-frame.jpg",
+      "description": "Classic brown frame for timeless elegance",
+      "material": "Acetate",
+      "shape": "Rectangle",
+      "size": {
+        "width": "140mm",
+        "height": "45mm",
+        "bridge": "18mm"
+      },
+      "lensOptions": [
+        {
+          "type": "ANTI-GLARE Essentials",
+          "features": [
+            "Adjusted lens thickness",
+            "Double side anti-glare (High Coating), UV protect"
+          ],
+          "warranty": "6 Months Warranty",
+          "coupon": "SINGLE",
+          "price": {
+            "current": 5300,
+            "original": 9900,
+            "pairs": 2
+          }
+        },
+        {
+          "type": "BLU-CUT/BLU-GREEN",
+          "features": [
+            "Blue-Block & Anti-glare",
+            "Adjusted lens thickness",
+            "Double side anti-glare"
+          ],
+          "warranty": "1 Year Warranty",
+          "coupon": "SINGLE",
+          "price": {
+            "current": 5500,
+            "original": 10200,
+            "pairs": 2
+          }
+        },
+        {
+          "type": "BLU-CUT PREMIUM/NVG",
+          "features": [
+            "Blue-Block & Anti-glare",
+            "Adjusted lens thickness",
+            "Double side anti-glare",
+            "Smudge & Scratch resistant",
+            "Water & dust repellent",
+            "UV protection"
+          ],
+          "warranty": "1 Year Warranty",
+          "coupon": "SINGLE",
+          "price": {
+            "current": 5800,
+            "original": 10500,
+            "pairs": 2
+          }
+        }
+      ],
+      "bifocalLensOptions": [
+        {
+          "type": "Circular Bi-Focal KT Hard Coat",
+          "features": [
+            "Basic Hard coating",
+            "Adjusted Lens Thickness"
+          ],
+          "additionalCoatings": {
+            "forPG": 800
+          },
+          "price": {
+            "current": 5300,
+            "original": 3750,
+            "pairs": 2
+          }
+        },
+        {
+          "type": "Circular Bi-Focal KT Anti-Glare",
+          "features": [
+            "Anti-Glare Coating",
+            "Adjusted Lens Thickness",
+            "UV Protection"
+          ],
+          "additionalCoatings": {
+            "forPG": 800
+          },
+          "price": {
+            "current": 5700,
+            "original": 3880,
+            "pairs": 2
+          }
+        },
+        {
+          "type": "Circular Bi-Focal KT BLU-Cut",
+          "features": [
+            "Premium Anti-Glare Coating",
+            "Adjusted Lens Thickness",
+            "UV Protection",
+            "Blue Block Protection",
+            "Smudge & Scratch Resistant",
+            "Water & Dust Repellent"
+          ],
+          "additionalCoatings": {
+            "forPG": 1800,
+            "forARC": 800,
+            "forBluCut": 1800
+          },
+          "price": {
+            "current": 6200,
+            "original": 8800,
+            "pairs": 2
+          }
+        },
+        {
+          "type": "Circular Bi-Focal KT - Premium",
+          "features": [
+            "All Premium Coatings",
+            "UV Protection",
+            "Customised Precision Lenses",
+            "Smudge & Scratch Resistant",
+            "Water & Dust Repellent",
+            "Adjusts Quickly"
+          ],
+          "additionalCoatings": {
+            "forPG": 1800,
+            "forARC": 800,
+            "forBluCut": 1800
+          },
+          "price": {
+            "current": 6800,
+            "original": 9500,
+            "pairs": 2
+          }
+        }
+      ],
+      "powerRange": {
+        "sph": {
+          "min": -8,
+          "max": 6
+        },
+        "cyl": {
+          "min": -4,
+          "max": 4
+        }
+      },
+      "progressiveLensOptions": [
+        {
+          "type": "Basic Normal Corridor Progressive",
+          "features": [
+            "Basic Hard coating",
+            "Adjusted Lens Thickness"
+          ],
+          "additionalCoatings": {
+            "forPG": 2500
+          },
+          "price": {
+            "current": 6500,
+            "original": 9500,
+            "pairs": 2
+          }
+        },
+        {
+          "type": "Normal Corridor Anti-Glare Progressive",
+          "features": [
+            "Anti-Glare Coating",
+            "Adjusted Lens Thickness",
+            "UV Protection"
+          ],
+          "price": {
+            "current": 7200,
+            "original": 9900,
+            "pairs": 2
+          }
+        },
+        {
+          "type": "Normal Corridor Blu-Cut Progressive",
+          "features": [
+            "Premium Anti-Glare Coating",
+            "Adjusted Lens Thickness",
+            "UV Protection",
+            "Blue Block Protection",
+            "Smudge & Scratch Resistant",
+            "Water & Dust Repellent"
+          ],
+          "price": {
+            "current": 8000,
+            "original": 11300,
+            "pairs": 2
+          }
+        },
+        {
+          "type": "Wide Corridor Progressive - Premium",
+          "features": [
+            "All Premium Coatings",
+            "UV Protection",
+            "Customised Precision Lenses",
+            "Smudge & Scratch Resistant",
+            "Water & Dust Repellent",
+            "Adjusts Quickly"
+          ],
+          "additionalCoatings": {
+            "forPG": 4000,
+            "forARC": 1800,
+            "forBluCut": 2500
+          },
+          "price": {
+            "current": 8000,
+            "original": 11300,
+            "pairs": 2
+          }
+        }
+      ],
+      "membershipCharges": 200,
+      "availability": true,
+      "stock": 55
+    },
+    {
+      "id": "red-001",
+      "name": "Red Frame",
+      "color": "Red",
+      "category": "BOGO_OFFER",
+      "image": "/images/frames/red-frame.jpg",
+      "description": "Bold red frame for a statement look",
+      "material": "Acetate",
+      "shape": "Rectangle",
+      "size": {
+        "width": "140mm",
+        "height": "45mm",
+        "bridge": "18mm"
+      },
+      "lensOptions": [
+        {
+          "type": "ANTI-GLARE Essentials",
+          "features": [
+            "Adjusted lens thickness",
+            "Double side anti-glare (High Coating), UV protect"
+          ],
+          "warranty": "6 Months Warranty",
+          "coupon": "SINGLE",
+          "price": {
+            "current": 6500,
+            "original": 9900,
+            "pairs": 2
+          }
+        },
+        {
+          "type": "BLU-CUT/BLU-GREEN",
+          "features": [
+            "Blue-Block & Anti-glare",
+            "Adjusted lens thickness",
+            "Double side anti-glare"
+          ],
+          "warranty": "1 Year Warranty",
+          "coupon": "SINGLE",
+          "price": {
+            "current": 6800,
+            "original": 10200,
+            "pairs": 2
+          }
+        },
+        {
+          "type": "BLU-CUT PREMIUM/NVG",
+          "features": [
+            "Blue-Block & Anti-glare",
+            "Adjusted lens thickness",
+            "Double side anti-glare",
+            "Smudge & Scratch resistant",
+            "Water & dust repellent",
+            "UV protection"
+          ],
+          "warranty": "1 Year Warranty",
+          "coupon": "SINGLE",
+          "price": {
+            "current": 7000,
+            "original": 10500,
+            "pairs": 2
+          }
+        }
+      ],
+      "bifocalLensOptions": [
+        {
+          "type": "Circular Bi-Focal KT Hard Coat",
+          "features": [
+            "Basic Hard coating",
+            "Adjusted Lens Thickness"
+          ],
+          "additionalCoatings": {
+            "forPG": 800
+          },
+          "price": {
+            "current": 6500,
+            "original": 3780,
+            "pairs": 2
+          }
+        },
+        {
+          "type": "Circular Bi-Focal KT Anti-Glare",
+          "features": [
+            "Anti-Glare Coating",
+            "Adjusted Lens Thickness",
+            "UV Protection"
+          ],
+          "additionalCoatings": {
+            "forPG": 800
+          },
+          "price": {
+            "current": 6900,
+            "original": 3880,
+            "pairs": 2
+          }
+        },
+        {
+          "type": "Circular Bi-Focal KT BLU-Cut",
+          "features": [
+            "Premium Anti-Glare Coating",
+            "Adjusted Lens Thickness",
+            "UV Protection",
+            "Blue Block Protection",
+            "Smudge & Scratch Resistant",
+            "Water & Dust Repellent"
+          ],
+          "additionalCoatings": {
+            "forPG": 1800,
+            "forARC": 800,
+            "forBluCut": 1800
+          },
+          "price": {
+            "current": 7500,
+            "original": 9500,
+            "pairs": 2
+          }
+        },
+        {
+          "type": "Circular Bi-Focal KT - Premium",
+          "features": [
+            "All Premium Coatings",
+            "UV Protection",
+            "Customised Precision Lenses",
+            "Smudge & Scratch Resistant",
+            "Water & Dust Repellent",
+            "Adjusts Quickly"
+          ],
+          "additionalCoatings": {
+            "forPG": 1800,
+            "forARC": 800,
+            "forBluCut": 1800
+          },
+          "price": {
+            "current": 8000,
+            "original": 11600,
+            "pairs": 2
+          }
+        }
+      ],
+      "progressiveLensOptions": [
+        {
+          "type": "Basic Normal Corridor Progressive",
+          "features": [
+            "Basic Hard coating",
+            "Adjusted Lens Thickness"
+          ],
+          "additionalCoatings": {
+            "forPG": 2500
+          },
+          "price": {
+            "current": 7600,
+            "original": 10300,
+            "pairs": 2
+          }
+        },
+        {
+          "type": "Normal Corridor Anti-Glare Progressive",
+          "features": [
+            "Anti-Glare Coating",
+            "Adjusted Lens Thickness",
+            "UV Protection"
+          ],
+          "price": {
+            "current": 8200,
+            "original": 11300,
+            "pairs": 2
+          }
+        },
+        {
+          "type": "Normal Corridor Blu-Cut Progressive",
+          "features": [
+            "Premium Anti-Glare Coating",
+            "Adjusted Lens Thickness",
+            "UV Protection",
+            "Blue Block Protection",
+            "Smudge & Scratch Resistant",
+            "Water & Dust Repellent"
+          ],
+          "price": {
+            "current": 9000,
+            "original": 12100,
+            "pairs": 2
+          }
+        },
+        {
+          "type": "Wide Corridor Progressive - Premium",
+          "features": [
+            "All Premium Coatings",
+            "UV Protection",
+            "Customised Precision Lenses",
+            "Smudge & Scratch Resistant",
+            "Water & Dust Repellent",
+            "Adjusts Quickly"
+          ],
+          "additionalCoatings": {
+            "forPG": 4000,
+            "forARC": 1800,
+            "forBluCut": 2500
+          },
+          "price": {
+            "current": 9000,
+            "original": 12100,
+            "pairs": 2
+          }
+        }
+      ],
+      "powerRange": {
+        "sph": {
+          "min": -8,
+          "max": 6
+        },
+        "cyl": {
+          "min": -4,
+          "max": 4
+        }
+      },
+      "membershipCharges": 200,
+      "availability": true,
+      "stock": 35
+    }
+  ]
+}
